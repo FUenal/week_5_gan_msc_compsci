@@ -62,3 +62,12 @@ Key dependencies include `tensorflow`, `numpy`, and `matplotlib`.
 This project successfully demonstrates the power of advanced GAN techniques to achieve high-quality artistic style transfer. The final model is capable of producing compelling, textured images that convincingly mimic the style of Claude Monet.
 
 For a detailed discussion of potential next steps and further improvements, please see the **"Future Work"** section at the end of the project notebook. Key ideas include experimenting with a ResNet-based generator and further hyperparameter tuning.
+
+---
+
+## Acknowledgments
+
+* Kaggle and the organizers for providing a rich, real-world dataset.
+* The MSc Computer Science & AI program for framing this as a hands-on assignment.
+
+---
