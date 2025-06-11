@@ -23,12 +23,12 @@ The final model successfully learns to apply Monet's style, including characteri
 #### Final Score (MiFID)
 
 *(Please replace this line with a screenshot of your final score)*
-`![My Score](path/to/your/score_image.png)`
+![My Score](score_image.png)
 
 #### Leaderboard Position
 
 *(Please replace this line with a screenshot of your leaderboard position)*
-`![My Leaderboard Position](path/to/your/leaderboard_image.png)`
+![My Leaderboard Position](leaderboard_image.png)
 
 ## Technical Approach
 
